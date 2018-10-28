@@ -20,7 +20,7 @@ include:
 *   Focusing on what is best for the community.
 *   Showing empathy towards other community members.
 
-Examples of unacceptable behavior by participants include:
+Examples of unacceptable behaviour by participants include:
 
 *   The use of sexualized language or imagery and unwelcome sexual attention or advances.
 *   Trolling, insulting/derogatory comments, and personal or political attacks.
@@ -51,7 +51,7 @@ further defined and clarified by project maintainers.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
+Instances of abusive, harassing, or otherwise unacceptable behaviour may be
 reported by contacting [roshanjossey@gmail.com](mailto:roshanjossey@gmail.com).
 All complaints will be reviewed and investigated and will result in a response
 that is deemed necessary and appropriate to the circumstances. The project team
